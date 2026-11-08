@@ -52,9 +52,7 @@ This documentation must be included in the project submission.
 
 ---
 
-# Project submission (instructions will be further specified)
-
-The project will be submitted towards the end of the course. The exact schedule will be specified later.
+# Project submission
 
 The students (individually or as a group) will present their work in a video presentation, in which they:
 
@@ -80,3 +78,4 @@ The video presentation should be supported by **presentation slides**, which sho
 * **video presentation**
 * **project source code**
 * **presentation slides**
+
